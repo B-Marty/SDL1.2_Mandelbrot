@@ -163,16 +163,6 @@ int main(int argc, char *argv[])
 
 
 
-/*
-
- sudo apt-get install libsdl2-dev
- sudo apt-get install libsdl2-2.0
- sudo apt-get install libsdl1.2-dev 
-
-*/
-
-
-
 long double map(long double value, long double istart, long double istop, long double ostart, long double ostop){
   return ostart + (ostop - ostart) * ((value - istart) / (istop - istart));
 }
