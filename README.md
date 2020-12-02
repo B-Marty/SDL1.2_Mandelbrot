@@ -5,6 +5,7 @@ Mandelbrot Set in C SDL 1.2
 #### Linux Mint 19.3 Tricia
 ` sudo apt-get install libsdl1.2-dev `
 #### Command
+**Left click** : Center screen on click position  
 **A** : Auto zoom  
 **D** : Auto dezoom  
 **K** : Redraw  
